@@ -39,7 +39,7 @@ Wireshark, Brim, Apackets, MaxMind GeoIP, VirusTotal, AbuseIPDB.
 
 ## Report
 
-The full step-by-step report (26 pages) is in this repository: `HawkEye-Keylogger-Investigation-Report.pdf`. Any credentials shown in the report are sample data from the CyberDefenders lab capture, not real accounts.
+The full step-by-step report (26 pages) is in this repository: `HawkEye-Keylogger-Investigation-Report.pdf.pdf`. Any credentials shown in the report are sample data from the CyberDefenders lab capture, not real accounts.
 
 ## Author
 
